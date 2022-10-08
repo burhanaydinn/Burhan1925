@@ -5,7 +5,7 @@
 
 ### About Me
 
-I graduated in 2016 with a bachelor's degree in mathematics and computer science. Then, I took my master degree in Dokuz Eylul University in 2022. Working as an Software Test Specialist at Gratis via Testinium.
+I graduated in 2016 with a bachelor's degree in mathematics and computer science. Then, I took my master degree in Statistics at Dokuz Eylul University in 2022. Currently, I am working as an Assistant Software Test Specialist at Gratis via Testinium.
 
 <div align="center">
   
