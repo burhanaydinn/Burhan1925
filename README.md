@@ -1,7 +1,11 @@
 <h1 align="center">Burhan Aydın</h1>
 <div align="center">
  
+### Hi there 👋
 
+### About Me
+
+I graduated in 2016 with a bachelor's degree in mathematics and computer science. Then, I took my master degree in Dokuz Eylul University in 2022. Working as an Software Test Specialist at Gratis via Testinium.
 
 <div align="center">
   
