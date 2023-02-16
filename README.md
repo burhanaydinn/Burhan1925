@@ -1,9 +1,9 @@
 <h1 align="center">Burhan Aydın</h1>
 <div align="center">
  
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-Burhan1925&color=brightgreen) <br />   
  
-![](https://komarev.com/ghpvc/?username=your-github-Burhan1925&color=brightgreen) <br />    
+### Hi there 👋 
 
 ### About Me:
 
