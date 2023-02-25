@@ -1,6 +1,11 @@
 <h1 align="center">Burhan Aydın</h1>
 <div align="center">
- 
+
+</p>
+</div>
+<hr/>
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=your-github-Burhan1925&color=brightgreen) <br />   
  
 ### Hi there 👋 
