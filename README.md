@@ -1,6 +1,4 @@
 <h1 align="center">Burhan Aydın</h1>
-<div align="center">
-
 </p>
 </div>
 <hr/>
