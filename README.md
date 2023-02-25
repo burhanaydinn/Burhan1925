@@ -14,11 +14,6 @@
 I graduated in 2016 with a bachelor's degree in Mathematics and Computer Science. Then, I took my master degree in Statistics at Dokuz Eylul University in 2022. Currently, I am working as an Assistant Software Test Specialist at Gratis via Testinium.
 
 <div align="center">
- 
-</p>
-</div>
-<hr/>
-<div align="center">
   
    <h3 align="center">My Accounts:</h3>
 <p align="center">
@@ -51,3 +46,7 @@ I graduated in 2016 with a bachelor's degree in Mathematics and Computer Science
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/65aa824e98ee79a514500bed767198506af50724d5389c56c63d97a29d3651dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/65aa824e98ee79a514500bed767198506af50724d5389c56c63d97a29d3651dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
 </div>
+</p>
+</div>
+<hr/>
+<div align="center">
