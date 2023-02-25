@@ -30,7 +30,7 @@ I graduated in 2016 with a bachelor's degree in Mathematics and Computer Science
 <h3 align="center">My Environment:</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</div>
+
 </p>
 </div>
 <hr/>
