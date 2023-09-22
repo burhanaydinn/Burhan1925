@@ -5,7 +5,7 @@
 <hr/>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=your-github-Burhan1925&color=brightgreen) <br />   
+![](https://komarev.com/ghpvc/?username=your-github-burhanaydinn&color=brightgreen) <br />   
  
 ### Hi there 👋 
 
