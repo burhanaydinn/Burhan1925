@@ -11,7 +11,7 @@
 
 ### About Me:
 
-I graduated in 2016 with a bachelor's degree in Mathematics and Computer Science. Then, I took my master degree in Statistics at Dokuz Eylul University in 2022. Currently, I am working as an Software Test Specialist at Testinium.
+I graduated in 2016 with a bachelor's degree in Mathematics and Computer Science. Then, I took my master degree in Statistics at Dokuz Eylul University in 2022. Currently, I am working as an Software Test Engineer at Testinium.
 
 <div align="center">
   
