@@ -38,9 +38,10 @@ I graduated in 2016 with a bachelor's degree in Mathematics and Computer Science
   
 <h3 align="center">Technologies & Tools:</h3>
 <p align="center">
- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/java-%231C39BB.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/appium-330F63.svg?style=for-the-badge&logo=java&logoColor=white"/>
      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
